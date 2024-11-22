@@ -32,5 +32,30 @@ Student Portfolio - Final Project
     <p></p>
   </section>
 
+  <section id="achievements" class="mt=5">
+    <h2>Achievements</h2>
+    <p></p>
+  </section>
+
+
+  <section id="skills" class="mt-5">
+    <h2>Skills</h2>
+    <p></p>
+  </section>
   
+  <section id="projects" class="mt-5">
+    <h2>Projects & Activities</h2>
+    <p></p>
+  </section>
+
+  <section id="hobbies" class="mt-5">
+    <h2>Hobbies & Interests</h2>
+    <p></p>
+  </section>
+
+  <section id="contact" class="mt-5">
+    <h2>Contact Information</h2>
+    <p></p>
+  </section>
+</div>
 </body>

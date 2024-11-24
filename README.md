@@ -1,5 +1,3 @@
-# CIC1101-MENDOZA
-Student Portfolio - Final Project
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,8 +13,8 @@ Student Portfolio - Final Project
     </button>
     <div class="collapse navbar-collapse" id=navbarNav">
       <ul class="navbar-nav">
-        <li class="nav-item"><a class="nav-link" href="#about">About Me</a></li>
-        <li class="nav-item"><a class="nav-link" href="#achievements">Achievements</a></li>
+        <li class="nav-item"><a class="nav-link" href="about.html">About Me</a></li>
+        <li class="nav-item"><a class="nav-link" href="achievements.html">Achievements</a></li>
         <li class="nav-item"><a class="nav-link" href="#Skills">Skills</a></li>
         <li class="nav-item"><a class="nav-link" href="#projects">Projects & Activities</a></li>
         <li class="nav-item"><a class="nav-link" href="#hobbies">Hobbies & Interests</a></li>

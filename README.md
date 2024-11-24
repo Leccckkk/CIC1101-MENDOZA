@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -13,8 +14,8 @@
     </button>
     <div class="collapse navbar-collapse" id=navbarNav">
       <ul class="navbar-nav">
-        <li class="nav-item"><a class="nav-link" href="about.html">About Me</a></li>
-        <li class="nav-item"><a class="nav-link" href="achievements.html">Achievements</a></li>
+        <li class="nav-item"><a class="nav-link" href="#about">About Me</a></li>
+        <li class="nav-item"><a class="nav-link" href="#achievements">Achievements</a></li>
         <li class="nav-item"><a class="nav-link" href="#Skills">Skills</a></li>
         <li class="nav-item"><a class="nav-link" href="#projects">Projects & Activities</a></li>
         <li class="nav-item"><a class="nav-link" href="#hobbies">Hobbies & Interests</a></li>

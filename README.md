@@ -62,12 +62,11 @@
     </div>
   </nav>
   
-<div style="padding-top: 70px;" class="container mt-5">
+<div class="container mt-5">
   <section id="about" class="animate__animated animate__fadeIn">
-    <h2 class="header">About Me<br><br><br><br></h2>
+    <h2 style="padding-top: 70px;" class="header">About Me<br><br><br><br></h2>
     <img src="c:\Users\User\Downloads\Untitled design (1).png" alt="My picture" width="460" height="345">
     <p class="body"><b>Hello,</b></p>
-    
     <p class="body2"><b>I'm Alec Rupert Mendoza</b></p>
     <p class="body3">BSIT Student</p>
     <p class="body4">I am 20 years old currently residing at Valenzuela City</p>
@@ -77,15 +76,18 @@
 
   <p><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
   <section id="achievements" class="animate__animated animate__fadeIn">
-    <h2 class="header">Achievements<br><br><br><br></h2>
-    <p class="body4">I graduated Junior High School at Children of Mary Immaculate College</p>
-    <p class="body4">I graduated Senior High School at Our Lady of Fatima - Valenzuela</p>
-    <p class="body4">I studied Accountancy for 2 years at University of Santo Tomas</p>
+    <h2 style="padding-top: 70px; text-indent: 550px;" class="header">Achievements<br><br><br><br></h2>
+    <li style="text-indent: 550px; line-height: 0.5;" class="body4">I graduated Junior High School at Children of<br><br></li>
+    <p style="text-indent: 583px;" class="body4">Mary Immaculate College</p>
+    <li style="text-indent: 550px; line-height: 0.5;" class="body4">I graduated Senior High School at Our Lady of<br><br></li>
+    <p style="text-indent: 583px;" class="body4">Fatima - Valenzuela</p>
+    <li style="text-indent: 550px; line-height: 0.5;" class="body4">I studied Accountancy for 2 years at University of<br><br></li>
+    <p style="text-indent: 583px;" class="body4">Santo Tomas</p>
   </section>
 
   <p><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
   <section id="skills" class="animate__animated animate__fadeIn">
-    <h2 class="header">Skills<br><br><br><br></h2>
+    <h2 style="padding-top: 70px;" class="header">Skills<br><br><br><br></h2>
     <p class="body4">I play Basketball</p>
     <p class="body4">I play some Instruments like Piano and Ukulele</p>
     <p class="body4">I Sing a lot!</p>
@@ -93,13 +95,13 @@
   
   <p><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
   <section id="projects" class="animate__animated animate__fadeIn">
-    <h2 class="header">Projects & Activities<br><br><br><br></h2>
+    <h2 style="padding-top: 70px;" class="header">Projects & Activities<br><br><br><br></h2>
     <p></p>
   </section>
 
   <p><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
   <section id="hobbies" class="animate__animated animate__fadeIn">
-    <h2 class="header">Hobbies & Interests<br><br><br><br></h2>
+    <h2 style="padding-top: 70px;" class="header">Hobbies & Interests<br><br><br><br></h2>
     <p class="body4">I love to play games online</p>
     <p class="body4">I love to sleep though I don't do it a lot</p>
     <p class="body4">I love to play chess</p>
@@ -107,7 +109,7 @@
 
   <p><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
   <section id="contact" class="mt-5 animate__animated animate__fadeIn">
-    <h2 class="header">Contact Information<br><br><br><br></h2>
+    <h2 style="padding-top: 70px;" class="header">Contact Information<br><br><br><br></h2>
     <p></p>
   </section>
 </div>
